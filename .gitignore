@@ -1,0 +1,11 @@
+# Regular Stuff
+node_modules
+dist
+.DS_Store
+
+# Config Files and Keys
+.env
+
+# Code coverage Result & Logs
+coverage
+logs
